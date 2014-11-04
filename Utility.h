@@ -1,5 +1,3 @@
-/*@version $Id: Utility.h 305 2011-11-25 09:01:32Z zhangxin $*/
-
 #ifndef UTILITY_H
 #define UTILITY_H
 #include "Common.h"
